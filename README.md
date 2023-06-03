@@ -5,7 +5,7 @@ Reliable Label-Supervised Pixel Attention Mechanism for Weakly Supervised Buildi
 ## Citation
 Please refer to our following papers for algorithm details:
 Chen J, Xu W, Yu Y, et al., "Reliable Label-Supervised Pixel Attention Mechanism for Weakly Supervised Building Segmentation in UAV Imagery," in Remote Sensing.
-[https://ieeexplore.ieee.org/document/9712312](https://www.mdpi.com/2072-4292/14/13/3196)
+https://www.mdpi.com/2072-4292/14/13/3196
 
 ```javascript
 @article{chen2022reliable,
